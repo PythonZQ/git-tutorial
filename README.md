@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-# Github教程
+#Git教程
 
-## Git checkout 创建新分支
-
-=======
-# Git教程
-
-## Git checkout 创建新分支
+-fix-B
 
 -- feature-A
->>>>>>> feature-A
